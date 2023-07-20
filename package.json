@@ -1,5 +1,5 @@
 {
-  "name": "rick-morty-api",
+  "name": "attack-on-titans-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,6 @@
     "start": "node server.js",
     "dev": "nodemong server.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemong server.js"
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",

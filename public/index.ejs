@@ -23,18 +23,18 @@
   <script>
     function getCharacters() {
       const name = document.getElementById('name').value
-      fetch(`http://localhost:3000/api/characters/${name}`)
+      fetch(`http://localhost:3000/characters/${name}`)
         .then((response) => response.json())
         .then((data) => {
           console.log(data)
-          document.getElementById('charData').style.display = 'block';
-          document.getElementById('charName').innerHTML = 'Name: ' + data.name
-          document.getElementById('charImage').src = data.img
-          document.getElementById('charGender').innerHTML = 'Gender: ' + data.gender
-          document.getElementById('charSpecies').innerHTML = 'Species: ' + data.species.join(', ')
-          document.getElementById('charAge').innerHTML = 'Age: ' + data.age
-          document.getElementById('charStatus').innerHTML = 'Status: ' + data.status
-          document.getElementById('charOccupation').innerHTML = 'Occupation: ' + data.occupation
+          // document.getElementById('charData').style.display = 'block';
+          // document.getElementById('charName').innerHTML = 'Name: ' + data.name
+          // document.getElementById('charImage').src = data.img
+          // document.getElementById('charGender').innerHTML = 'Gender: ' + data.gender
+          // document.getElementById('charSpecies').innerHTML = 'Species: ' + data.species.join(', ')
+          // document.getElementById('charAge').innerHTML = 'Age: ' + data.age
+          // document.getElementById('charStatus').innerHTML = 'Status: ' + data.status
+          // document.getElementById('charOccupation').innerHTML = 'Occupation: ' + data.occupation
         })
         .catch((error) => {
           console.error('Error:', error);

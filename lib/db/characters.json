@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Armin Arlelt",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322005647",
     "alias": ["Colossal Titan"],
@@ -105,7 +104,6 @@
     ]
   },
   {
-    "id": 2,
     "name": "Mikasa Ackermann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221220718",
     "alias": [],
@@ -222,7 +220,6 @@
     ]
   },
   {
-    "id": 3,
     "name": "Jean Kirschtein",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207230042",
     "alias": ["Horse face"],
@@ -323,7 +320,6 @@
     ]
   },
   {
-    "id": 4,
     "name": "Conny Springer",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/37/Conny_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210211105306",
     "alias": [],
@@ -440,7 +436,6 @@
     ]
   },
   {
-    "id": 5,
     "name": "Levi Ackermann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230309145235",
     "alias": ["Humanity's Strongest Soldier"],
@@ -522,7 +517,6 @@
     ]
   },
   {
-    "id": 6,
     "name": "Buchwald",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0b/Buchwald_character_image.png/revision/latest/scale-to-width-down/350?cb=20210412043251",
     "alias": [],
@@ -547,7 +541,6 @@
     ]
   },
   {
-    "id": 7,
     "name": "Lima",
     "alias": [],
     "species": ["Human"],
@@ -570,7 +563,6 @@
     ]
   },
   {
-    "id": 8,
     "name": "Hange Zoë",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e4/Hange_Zo%C3%AB_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221212604",
     "alias": [],
@@ -649,7 +641,6 @@
     ]
   },
   {
-    "id": 9,
     "name": "Varis",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Varis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308010615",
     "alias": [],
@@ -671,7 +662,6 @@
     ]
   },
   {
-    "id": 10,
     "name": "Sasha Braus",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Sasha_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210124211650",
     "alias": ["Potato Girl"],
@@ -762,7 +752,6 @@
     ]
   },
   {
-    "id": 11,
     "name": "Lobov",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6b/Lobov_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210201012057",
     "alias": [],
@@ -784,7 +773,6 @@
     ]
   },
   {
-    "id": 12,
     "name": "Erwin Smith",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/de/Erwin_Smith_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190604212647",
     "alias": ["Eyebrow"],
@@ -854,7 +842,6 @@
     ]
   },
   {
-    "id": 13,
     "name": "Sandra",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/99/Sandra_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180153",
     "alias": [],
@@ -881,7 +868,6 @@
     ]
   },
   {
-    "id": 14,
     "name": "Gordon",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Gordon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180214",
     "alias": [],
@@ -905,7 +891,6 @@
     ]
   },
   {
-    "id": 15,
     "name": "Marlo Freudenberg",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/63/Marlo_Freudenberg_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514194208",
     "alias": [],
@@ -942,7 +927,6 @@
     ]
   },
   {
-    "id": 16,
     "name": "Tomas",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Tomas_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182612",
     "alias": [],
@@ -963,7 +947,6 @@
     ]
   },
   {
-    "id": 17,
     "name": "Dieter",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/83/Dieter_character_image.png/revision/latest/scale-to-width-down/350?cb=20190520014953",
     "alias": [],
@@ -984,7 +967,6 @@
     ]
   },
   {
-    "id": 18,
     "name": "Dirk",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/09/Dirk_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195047",
     "alias": [],
@@ -1009,7 +991,6 @@
     ]
   },
   {
-    "id": 19,
     "name": "Marlene",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/42/Marlene_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195843",
     "alias": [],
@@ -1031,7 +1012,6 @@
     ]
   },
   {
-    "id": 20,
     "name": "Klaus",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Klaus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195513",
     "alias": [],
@@ -1054,7 +1034,6 @@
     ]
   },
   {
-    "id": 21,
     "name": "Harold",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/17/Harold_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014194319",
     "alias": [],
@@ -1078,7 +1057,6 @@
     ]
   },
   {
-    "id": 22,
     "name": "Moblit Berner",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/59/Moblit_Berner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514201929",
     "alias": [],
@@ -1130,7 +1108,6 @@
     ]
   },
   {
-    "id": 23,
     "name": "Keiji",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Keiji_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180822214556",
     "alias": [],
@@ -1162,7 +1139,6 @@
     ]
   },
   {
-    "id": 24,
     "name": "Abel",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/89/Abel_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171011075309",
     "alias": [],
@@ -1194,7 +1170,6 @@
     ]
   },
   {
-    "id": 25,
     "name": "Nifa",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/79/Nifa_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182304",
     "alias": [],
@@ -1223,7 +1198,6 @@
     ]
   },
   {
-    "id": 26,
     "name": "Rashad",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/37/Rashad_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182957",
     "alias": [],
@@ -1246,7 +1220,6 @@
     ]
   },
   {
-    "id": 27,
     "name": "Lauda",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/78/Lauda_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217183257",
     "alias": [],
@@ -1267,7 +1240,6 @@
     ]
   },
   {
-    "id": 28,
     "name": "Peer",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/68/Peer_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419045557",
     "alias": [],
@@ -1292,7 +1264,6 @@
     ]
   },
   {
-    "id": 29,
     "name": "Beirer",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Beirer_character_image.png/revision/latest/scale-to-width-down/350?cb=20211119023601",
     "alias": [],
@@ -1314,7 +1285,6 @@
     ]
   },
   {
-    "id": 30,
     "name": "Nanaba",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cb/Nanaba_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170401193517",
     "alias": [],
@@ -1345,7 +1315,6 @@
     ]
   },
   {
-    "id": 31,
     "name": "Gelgar",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1e/Gelgar_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217184915",
     "alias": [],
@@ -1373,7 +1342,6 @@
     ]
   },
   {
-    "id": 32,
     "name": "Henning",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4e/Henning_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170415163342",
     "alias": [],
@@ -1398,7 +1366,6 @@
     ]
   },
   {
-    "id": 33,
     "name": "Lynne",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/12/Lynne_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217185349",
     "alias": [],
@@ -1426,7 +1393,6 @@
     ]
   },
   {
-    "id": 34,
     "name": "Miche Zacharius",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5e/Miche_Zacharius_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180911163737",
     "alias": [],
@@ -1463,7 +1429,6 @@
     ]
   },
   {
-    "id": 35,
     "name": "Jurgen",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/88/Jurgen_character_image.png/revision/latest/scale-to-width-down/350?cb=20130910074058",
     "alias": [],
@@ -1481,7 +1446,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/22"]
   },
   {
-    "id": 36,
     "name": "Ivan",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f6/Ivan_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419000256",
     "alias": [],
@@ -1499,7 +1463,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/22"]
   },
   {
-    "id": 37,
     "name": "Charrette",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/82/Charrette_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200909023927",
     "alias": [],
@@ -1521,7 +1484,6 @@
     ]
   },
   {
-    "id": 38,
     "name": "Oruo Bozad",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Oruo_Bozad_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820184509",
     "alias": [],
@@ -1563,7 +1525,6 @@
     ]
   },
   {
-    "id": 39,
     "name": "Petra Rall",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5f/Petra_Rall_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20160327071221",
     "alias": [],
@@ -1601,7 +1562,6 @@
     ]
   },
   {
-    "id": 40,
     "name": "Eld Gin",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Eld_Gin_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130720231916",
     "alias": [],
@@ -1639,7 +1599,6 @@
     ]
   },
   {
-    "id": 41,
     "name": "Gunther Schultz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/97/Gunther_Schultz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130803135859",
     "alias": [],
@@ -1680,7 +1639,6 @@
     ]
   },
   {
-    "id": 42,
     "name": "Darius Baer Walbrunn",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c9/Darius_Baer_Walbrunn_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20131002200049",
     "alias": [],
@@ -1705,7 +1663,6 @@
     ]
   },
   {
-    "id": 43,
     "name": "Dieter Ness",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Dieter_Ness_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190518044644",
     "alias": [],
@@ -1732,7 +1689,6 @@
     ]
   },
   {
-    "id": 44,
     "name": "Luke Cis",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/98/Luke_Cis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820191914",
     "alias": [],
@@ -1758,7 +1714,6 @@
     ]
   },
   {
-    "id": 45,
     "name": "Ilse Langnar",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Ilse_Langnar_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20160912013035",
     "alias": [],
@@ -1776,7 +1731,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/53"]
   },
   {
-    "id": 46,
     "name": "Moses",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9c/Moses_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170515112641",
     "alias": [],
@@ -1794,7 +1748,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/1"]
   },
   {
-    "id": 47,
     "name": "Furlan Church",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/76/Furlan_Church_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200926202820",
     "alias": [],
@@ -1812,7 +1765,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/53"]
   },
   {
-    "id": 48,
     "name": "Flagon",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/73/Flagon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170629003439",
     "alias": [],
@@ -1830,7 +1782,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/53"]
   },
   {
-    "id": 49,
     "name": "Isabel Magnolia",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/8f/Isabel_Magnolia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170629015437",
     "alias": [],
@@ -1848,7 +1799,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/53"]
   },
   {
-    "id": 50,
     "name": "Waltz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9b/Waltz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218072330",
     "alias": [],
@@ -1873,7 +1823,6 @@
     ]
   },
   {
-    "id": 51,
     "name": "Hitch Dreyse",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4b/Hitch_Dreyse_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220325011514",
     "alias": [],
@@ -1904,7 +1853,6 @@
     ]
   },
   {
-    "id": 52,
     "name": "Boris Feulner",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b8/Boris_Feulner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819002223",
     "alias": [],
@@ -1925,7 +1873,6 @@
     ]
   },
   {
-    "id": 53,
     "name": "Dennis Aiblinger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d1/Dennis_Aiblinger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170826040612",
     "alias": ["ja"],
@@ -1946,7 +1893,6 @@
     ]
   },
   {
-    "id": 54,
     "name": "Roger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3a/Roger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181122110830",
     "alias": [],
@@ -1970,7 +1916,6 @@
     ]
   },
   {
-    "id": 55,
     "name": "Roeg",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/86/Roeg_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223809",
     "alias": [],
@@ -1996,7 +1941,6 @@
     ]
   },
   {
-    "id": 56,
     "name": "Nile Dawk",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Nile_Dawk_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223822",
     "alias": [],
@@ -2039,7 +1983,6 @@
     ]
   },
   {
-    "id": 57,
     "name": "Kenny Ackermann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ee/Kenny_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180906041337",
     "alias": ["Kenny the Ripper"],
@@ -2088,7 +2031,6 @@
     ]
   },
   {
-    "id": 58,
     "name": "Caven",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6e/Caven_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180826201538",
     "alias": [],
@@ -2120,7 +2062,6 @@
     ]
   },
   {
-    "id": 59,
     "name": "Duran",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b2/Duran_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180730213708",
     "alias": [],
@@ -2147,7 +2088,6 @@
     ]
   },
   {
-    "id": 60,
     "name": "Gustav",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Gustav_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190714094555",
     "alias": [],
@@ -2178,7 +2118,6 @@
     ]
   },
   {
-    "id": 61,
     "name": "Kitz Woermann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1d/Kitz_Woermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200630203518",
     "alias": [],
@@ -2203,7 +2142,6 @@
     ]
   },
   {
-    "id": 62,
     "name": "Rico Brzenska",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f7/Rico_Brzenska_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170430033417",
     "alias": [],
@@ -2231,7 +2169,6 @@
     ]
   },
   {
-    "id": 63,
     "name": "Carsten",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Carsten_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180925125809",
     "alias": [],
@@ -2252,7 +2189,6 @@
     ]
   },
   {
-    "id": 64,
     "name": "Phil",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/49/Phil_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514200921",
     "alias": [],
@@ -2280,7 +2216,6 @@
     ]
   },
   {
-    "id": 65,
     "name": "Anka Rheinberger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/92/Anka_Rheinberger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223756",
     "alias": [],
@@ -2316,7 +2251,6 @@
     ]
   },
   {
-    "id": 66,
     "name": "Dot Pyxis",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Dot_Pyxis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223732",
     "alias": [],
@@ -2368,7 +2302,6 @@
     ]
   },
   {
-    "id": 67,
     "name": "Hannes",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/09/Hannes_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170520171257",
     "alias": [],
@@ -2415,7 +2348,6 @@
     ]
   },
   {
-    "id": 68,
     "name": "Ian Dietrich",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/33/Ian_Dietrich_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20161220053809",
     "alias": [],
@@ -2445,7 +2377,6 @@
     ]
   },
   {
-    "id": 69,
     "name": "Mitabi Jarnach",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Mitabi_Jarnach_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130615204653",
     "alias": [],
@@ -2469,7 +2400,6 @@
     ]
   },
   {
-    "id": 70,
     "name": "Hugo",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/22/Hugo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170825082132",
     "alias": [],
@@ -2493,7 +2423,6 @@
     ]
   },
   {
-    "id": 71,
     "name": "Keith Sadies",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/68/Keith_Sadies_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322010239",
     "alias": [],
@@ -2530,7 +2459,6 @@
     ]
   },
   {
-    "id": 72,
     "name": "Hanna Diament",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/18/Hanna_Diament_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170627000005",
     "alias": [],
@@ -2559,7 +2487,6 @@
     ]
   },
   {
-    "id": 73,
     "name": "Ruth D. Kline",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e2/Ruth_D._Kline_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170926140039",
     "alias": [],
@@ -2577,7 +2504,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/13"]
   },
   {
-    "id": 74,
     "name": "Marco Bodt",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9a/Marco_Bodt_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220308173139",
     "alias": [],
@@ -2619,7 +2545,6 @@
     ]
   },
   {
-    "id": 75,
     "name": "Tom",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9d/Tom_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130828152441",
     "alias": [],
@@ -2640,7 +2565,6 @@
     ]
   },
   {
-    "id": 76,
     "name": "Franz Kefka",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Franz_Kefka_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170627000538",
     "alias": [],
@@ -2665,7 +2589,6 @@
     ]
   },
   {
-    "id": 77,
     "name": "Mina Carolina",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9a/Mina_Carolina_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820182300",
     "alias": [],
@@ -2695,7 +2618,6 @@
     ]
   },
   {
-    "id": 78,
     "name": "Milieus Zeremski",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/03/Milieus_Zeremski_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820190634",
     "alias": [],
@@ -2717,7 +2639,6 @@
     ]
   },
   {
-    "id": 79,
     "name": "Nack Tierce",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Nack_Tierce_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820190821",
     "alias": [],
@@ -2741,7 +2662,6 @@
     ]
   },
   {
-    "id": 80,
     "name": "Thomas Wagner",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/52/Thomas_Wagner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171215201507",
     "alias": [],
@@ -2774,7 +2694,6 @@
     ]
   },
   {
-    "id": 81,
     "name": "Muller",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/ca/Muller_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304072035",
     "alias": [],
@@ -2792,7 +2711,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/88"]
   },
   {
-    "id": 82,
     "name": "Theo Magath",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/11/Theo_Magath_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227230812",
     "alias": [],
@@ -2831,7 +2749,6 @@
     ]
   },
   {
-    "id": 83,
     "name": "Koslow",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/08/Koslow_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201228001001",
     "alias": [],
@@ -2861,7 +2778,6 @@
     ]
   },
   {
-    "id": 84,
     "name": "Carlo",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1c/Carlo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210118000338",
     "alias": [],
@@ -2883,7 +2799,6 @@
     ]
   },
   {
-    "id": 85,
     "name": "Calvi",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b9/Calvi_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213220318",
     "alias": [],
@@ -2905,7 +2820,6 @@
     ]
   },
   {
-    "id": 86,
     "name": "Reiner Braun",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201215085623",
     "alias": ["Armored Titan", "Armor", "Marley's Shield"],
@@ -2997,7 +2911,6 @@
     ]
   },
   {
-    "id": 87,
     "name": "Annie Leonhart",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310224559",
     "alias": ["Female Titan", "Female"],
@@ -3067,7 +2980,6 @@
     ]
   },
   {
-    "id": 88,
     "name": "Pieck Finger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/73/Pieck_Finger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210329044012",
     "alias": ["Cart Titan", "Cart", "Quadruped-type", "Quadrupedal-type"],
@@ -3122,7 +3034,6 @@
     ]
   },
   {
-    "id": 89,
     "name": "Falco Grice",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5a/Falco_Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310231730",
     "alias": ["Ben", "Jaw Titan", "Jaw"],
@@ -3175,7 +3086,6 @@
     ]
   },
   {
-    "id": 90,
     "name": "Gabi Braun",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/46/Gabi_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310232610",
     "alias": ["Mia"],
@@ -3226,7 +3136,6 @@
     ]
   },
   {
-    "id": 91,
     "name": "Porco Galliard",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Porco_Galliard_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213215821",
     "alias": ["Jaw Titan", "Jaw", "Pock"],
@@ -3270,7 +3179,6 @@
     ]
   },
   {
-    "id": 92,
     "name": "Colt Grice",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/01/Colt_Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220403130406",
     "alias": [],
@@ -3310,7 +3218,6 @@
     ]
   },
   {
-    "id": 93,
     "name": "Udo",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Udo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227225914",
     "alias": [],
@@ -3336,7 +3243,6 @@
     ]
   },
   {
-    "id": 94,
     "name": "Zofia",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Zofia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227233855",
     "alias": [],
@@ -3362,7 +3268,6 @@
     ]
   },
   {
-    "id": 95,
     "name": "Bertholdt Hoover",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190513182108",
     "alias": ["Colossal Titan", "Bertl"],
@@ -3434,7 +3339,6 @@
     ]
   },
   {
-    "id": 96,
     "name": "Marcel Galliard",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2c/Marcel_Galliard_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201221183921",
     "alias": ["Jaw Titan", "Jaw"],
@@ -3469,7 +3373,6 @@
     ]
   },
   {
-    "id": 97,
     "name": "Tom Xaver",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Tom_Xaver_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322003839",
     "alias": ["Beast Titan"],
@@ -3491,7 +3394,6 @@
     ]
   },
   {
-    "id": 98,
     "name": "Eren Kruger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e0/Eren_Kruger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710114951",
     "alias": ["Attack Titan", "The Owl"],
@@ -3514,7 +3416,6 @@
     ]
   },
   {
-    "id": 99,
     "name": "Gross",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f8/Gross_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710181439",
     "alias": [],
@@ -3539,7 +3440,6 @@
     ]
   },
   {
-    "id": 100,
     "name": "Dhalis Zachary",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3e/Dhalis_Zachary_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221221357",
     "alias": [],
@@ -3571,7 +3471,6 @@
     ]
   },
   {
-    "id": 101,
     "name": "Historia Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210214220206",
     "alias": [
@@ -3644,7 +3543,6 @@
     ]
   },
   {
-    "id": 102,
     "name": "Wald",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1b/Wald_character_image.png/revision/latest/scale-to-width-down/350?cb=20130828150910",
     "alias": [],
@@ -3662,7 +3560,6 @@
     "episodes": []
   },
   {
-    "id": 103,
     "name": "Nicholas Lovof",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4d/Nicholas_Lovof_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419164147",
     "alias": [],
@@ -3680,7 +3577,6 @@
     "episodes": []
   },
   {
-    "id": 104,
     "name": "Rod Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/48/Rod_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180903032714",
     "alias": ["Lord Reiss", "King of the Walls"],
@@ -3733,7 +3629,6 @@
     ]
   },
   {
-    "id": 105,
     "name": "Ulklin Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/14/Ulklin_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220208141457",
     "alias": [],
@@ -3781,7 +3676,6 @@
     ]
   },
   {
-    "id": 106,
     "name": "Frieda's mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Frieda%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180826205347",
     "alias": [],
@@ -3823,7 +3717,6 @@
     ]
   },
   {
-    "id": 107,
     "name": "Florian Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/67/Florian_Reiss_%28Anime%29_character_image.png/revision/latest?cb=20180826212015",
     "alias": [],
@@ -3871,7 +3764,6 @@
     ]
   },
   {
-    "id": 108,
     "name": "Abel Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f2/Abel_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190711161341",
     "alias": [],
@@ -3919,7 +3811,6 @@
     ]
   },
   {
-    "id": 109,
     "name": "Dirk Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5b/Dirk_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200424231532",
     "alias": [],
@@ -3967,7 +3858,6 @@
     ]
   },
   {
-    "id": 110,
     "name": "Frieda Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/05/Frieda_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180907103107",
     "alias": ["King of the Walls", "Founding Titan"],
@@ -4019,7 +3909,6 @@
     ]
   },
   {
-    "id": 111,
     "name": "Uri Reiss",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a9/Uri_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180923225103",
     "alias": ["King of the Walls", "Founding Titan"],
@@ -4063,7 +3952,6 @@
     ]
   },
   {
-    "id": 112,
     "name": "Rod and Uri's father",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4e/Rod_and_Uri%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180916193343",
     "alias": ["King of the Walls", "Founding Titan"],
@@ -4104,7 +3992,6 @@
     ]
   },
   {
-    "id": 113,
     "name": "Karl Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c7/Karl_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210110210300",
     "alias": [
@@ -4155,7 +4042,6 @@
     ]
   },
   {
-    "id": 114,
     "name": "Fine Tybur",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Fine_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210117211151",
     "alias": [],
@@ -4190,7 +4076,6 @@
     ]
   },
   {
-    "id": 115,
     "name": "Alois Tybur",
     "alias": [],
     "species": ["Human"],
@@ -4222,7 +4107,6 @@
     ]
   },
   {
-    "id": 116,
     "name": "Bruno Tybur",
     "alias": [],
     "species": ["Human"],
@@ -4254,7 +4138,6 @@
     ]
   },
   {
-    "id": 117,
     "name": "Rico Tybur",
     "alias": [],
     "species": ["Human"],
@@ -4286,7 +4169,6 @@
     ]
   },
   {
-    "id": 118,
     "name": "Lara Tybur",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Lara_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210117211125",
     "alias": ["War Hammer Titan"],
@@ -4322,7 +4204,6 @@
     ]
   },
   {
-    "id": 119,
     "name": "Willy Tybur",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5e/Willy_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227222346",
     "alias": ["Lord Tybur", "Kin of our savior"],
@@ -4359,7 +4240,6 @@
     ]
   },
   {
-    "id": 120,
     "name": "Sina Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Sina_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221516",
     "alias": [],
@@ -4387,7 +4267,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/80"]
   },
   {
-    "id": 121,
     "name": "Rose Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/ce/Rose_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221515",
     "alias": [],
@@ -4415,7 +4294,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/80"]
   },
   {
-    "id": 122,
     "name": "Maria Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6c/Maria_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221501",
     "alias": [],
@@ -4443,7 +4321,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/80"]
   },
   {
-    "id": 123,
     "name": "Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206222853",
     "alias": [],
@@ -4487,7 +4364,6 @@
     ]
   },
   {
-    "id": 124,
     "name": "Ymir Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/03/Ymir_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220123225542",
     "alias": ["Christa", "Founding Titan", "Founder Ymir"],
@@ -4534,7 +4410,6 @@
     ]
   },
   {
-    "id": 125,
     "name": "Kiyomi Azumabito",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e6/Kiyomi_Azumabito_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310223432",
     "alias": [],
@@ -4571,7 +4446,6 @@
     ]
   },
   {
-    "id": 126,
     "name": "Ellie",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ea/Ellie_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170713084822",
     "alias": [],
@@ -4592,7 +4466,6 @@
     ]
   },
   {
-    "id": 127,
     "name": "Petra's father",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Petra%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170401235220",
     "alias": [],
@@ -4615,7 +4488,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/22"]
   },
   {
-    "id": 128,
     "name": "Stohess District Mayor",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c3/Stohess_District_Mayor_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514151051",
     "alias": [],
@@ -4633,7 +4505,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/25"]
   },
   {
-    "id": 129,
     "name": "Roderich",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Roderich_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194245",
     "alias": [],
@@ -4659,7 +4530,6 @@
     ]
   },
   {
-    "id": 130,
     "name": "Jean's mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4a/Jean%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170415060502",
     "alias": ["Huma"],
@@ -4685,7 +4555,6 @@
     "episodes": []
   },
   {
-    "id": 131,
     "name": "Artur Braus",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/98/Artur_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221215948",
     "alias": [],
@@ -4724,7 +4593,6 @@
     ]
   },
   {
-    "id": 132,
     "name": "Kaya",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f1/Kaya_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221220314",
     "alias": [],
@@ -4763,7 +4631,6 @@
     ]
   },
   {
-    "id": 133,
     "name": "Conny's mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2a/Conny%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218092824",
     "alias": [],
@@ -4800,7 +4667,6 @@
     ]
   },
   {
-    "id": 134,
     "name": "Carly Stratmann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/32/Carly_Stratmann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180412031433",
     "alias": [],
@@ -4818,7 +4684,6 @@
     "episodes": []
   },
   {
-    "id": 135,
     "name": "Elliot G. Stratmann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/55/Elliot_G._Stratmann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171208075330",
     "alias": [],
@@ -4836,7 +4701,6 @@
     "episodes": []
   },
   {
-    "id": 136,
     "name": "Lou",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/75/Lou_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131401",
     "alias": [],
@@ -4854,7 +4718,6 @@
     "episodes": []
   },
   {
-    "id": 137,
     "name": "Ralph",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/34/Ralph_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115123227",
     "alias": [],
@@ -4876,7 +4739,6 @@
     ]
   },
   {
-    "id": 138,
     "name": "Djel Sannes",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/13/Djel_Sannes_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180722202626",
     "alias": [],
@@ -4905,7 +4767,6 @@
     ]
   },
   {
-    "id": 139,
     "name": "King Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b6/King_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194646",
     "alias": [],
@@ -4926,7 +4787,6 @@
     ]
   },
   {
-    "id": 140,
     "name": "Aurille",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Aurille_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194114",
     "alias": [],
@@ -4952,7 +4812,6 @@
     ]
   },
   {
-    "id": 141,
     "name": "Gerald",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/39/Gerald_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180813082916",
     "alias": [],
@@ -4978,7 +4837,6 @@
     ]
   },
   {
-    "id": 142,
     "name": "Deltoff",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b9/Deltoff_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194438",
     "alias": [],
@@ -5004,7 +4862,6 @@
     ]
   },
   {
-    "id": 143,
     "name": "Flegel Reeves",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/52/Flegel_Reeves_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180820213600",
     "alias": [],
@@ -5040,7 +4897,6 @@
     ]
   },
   {
-    "id": 144,
     "name": "Roy",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/87/Roy_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180812192345",
     "alias": [],
@@ -5065,7 +4921,6 @@
     ]
   },
   {
-    "id": 145,
     "name": "Peaure",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cd/Peaure_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221223047",
     "alias": [],
@@ -5090,7 +4945,6 @@
     ]
   },
   {
-    "id": 146,
     "name": "Nicolo",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Nicolo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207224016",
     "alias": [],
@@ -5118,7 +4972,6 @@
     ]
   },
   {
-    "id": 147,
     "name": "Lisa Braus",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f6/Lisa_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207224959",
     "alias": [],
@@ -5156,7 +5009,6 @@
     ]
   },
   {
-    "id": 148,
     "name": "Marie Dawk",
     "alias": [],
     "species": ["Human"],
@@ -5173,7 +5025,6 @@
     "episodes": []
   },
   {
-    "id": 149,
     "name": "Moses' mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/67/Moses%27_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170814200844",
     "alias": [],
@@ -5194,7 +5045,6 @@
     ]
   },
   {
-    "id": 150,
     "name": "Yan",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/77/Yan_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514190410",
     "alias": [],
@@ -5212,7 +5062,6 @@
     "episodes": []
   },
   {
-    "id": 151,
     "name": "Dimo Reeves",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/41/Dimo_Reeves_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180730020903",
     "alias": [],
@@ -5245,7 +5094,6 @@
     ]
   },
   {
-    "id": 152,
     "name": "Nick",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b4/Nick_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170416161720",
     "alias": ["Pastor Nick"],
@@ -5274,7 +5122,6 @@
     ]
   },
   {
-    "id": 153,
     "name": "Conny's father",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/21/Conny%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218093626",
     "alias": [],
@@ -5310,7 +5157,6 @@
     ]
   },
   {
-    "id": 154,
     "name": "Sunny Springer",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3b/Sunny_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220220224438",
     "alias": [],
@@ -5341,7 +5187,6 @@
     ]
   },
   {
-    "id": 155,
     "name": "Martin Springer",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Martin_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220220224616",
     "alias": [],
@@ -5372,7 +5217,6 @@
     ]
   },
   {
-    "id": 156,
     "name": "Wald",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bf/Wald_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131340",
     "alias": [],
@@ -5390,7 +5234,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/5"]
   },
   {
-    "id": 157,
     "name": "Kemper Boltz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/30/Kemper_Boltz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131857",
     "alias": [],
@@ -5408,7 +5251,6 @@
     "episodes": []
   },
   {
-    "id": 158,
     "name": "Armin's grandfather",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cf/Armin%27s_grandfather_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170812182615",
     "alias": [],
@@ -5434,7 +5276,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/2"]
   },
   {
-    "id": 159,
     "name": "Alma",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Alma_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180805194520",
     "alias": [],
@@ -5458,7 +5299,6 @@
     ]
   },
   {
-    "id": 160,
     "name": "Grisha Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/33/Grisha_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170418234824",
     "alias": ["Attack Titan", "Mysterious Titan", "Founding Titan"],
@@ -5512,7 +5352,6 @@
     ]
   },
   {
-    "id": 161,
     "name": "Carla Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3d/Carla_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419134831",
     "alias": [],
@@ -5566,7 +5405,6 @@
     ]
   },
   {
-    "id": 162,
     "name": "Bandits",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/91/Bandits_%28Anime%29_character_image_%28Leader%29.png/revision/latest/scale-to-width-down/350?cb=20180817201324",
     "alias": [],
@@ -5587,7 +5425,6 @@
     ]
   },
   {
-    "id": 163,
     "name": "Mikasa's mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/36/Mikasa%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171004200544",
     "alias": [],
@@ -5618,7 +5455,6 @@
     ]
   },
   {
-    "id": 164,
     "name": "Mikasa's father",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Mikasa%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115132327",
     "alias": [],
@@ -5652,7 +5488,6 @@
     ]
   },
   {
-    "id": 165,
     "name": "Kuchel Ackermann",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Kuchel_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180923201145",
     "alias": ["Olympia"],
@@ -5684,7 +5519,6 @@
     ]
   },
   {
-    "id": 166,
     "name": "Kenny's grandpa",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d0/Kenny%27s_grandpa_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180826213649",
     "alias": [],
@@ -5716,7 +5550,6 @@
     ]
   },
   {
-    "id": 167,
     "name": "Mr. Smith",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/06/Mr._Smith_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180805201400",
     "alias": [],
@@ -5747,7 +5580,6 @@
     ]
   },
   {
-    "id": 168,
     "name": "Leonhart",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d7/Leonhart_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210110211803",
     "alias": [],
@@ -5778,7 +5610,6 @@
     ]
   },
   {
-    "id": 169,
     "name": "Finger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2a/Finger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063746",
     "alias": [],
@@ -5806,7 +5637,6 @@
     ]
   },
   {
-    "id": 170,
     "name": "Karina Braun",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/61/Karina_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213233835",
     "alias": [],
@@ -5840,7 +5670,6 @@
     ]
   },
   {
-    "id": 171,
     "name": "Reiner's father",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/53/Reiner%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201228095914",
     "alias": [],
@@ -5858,7 +5687,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/62"]
   },
   {
-    "id": 172,
     "name": "Grisha's mother",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c4/Grisha%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201214005136",
     "alias": [],
@@ -5897,7 +5725,6 @@
     ]
   },
   {
-    "id": 173,
     "name": "Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/59/Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201214004837",
     "alias": [],
@@ -5935,7 +5762,6 @@
     ]
   },
   {
-    "id": 174,
     "name": "Ramzi",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/df/Ramzi_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063524",
     "alias": [],
@@ -5957,7 +5783,6 @@
     ]
   },
   {
-    "id": 175,
     "name": "Halil",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7a/Halil_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063134",
     "alias": [],
@@ -5975,7 +5800,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/88"]
   },
   {
-    "id": 176,
     "name": "Ymir",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181009020525",
     "alias": ["Freckles", "Lady Ymir", "Jaw Titan"],
@@ -6028,7 +5852,6 @@
     ]
   },
   {
-    "id": 177,
     "name": "Dina Fritz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0e/Dina_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190617054955",
     "alias": [],
@@ -6080,7 +5903,6 @@
     ]
   },
   {
-    "id": 178,
     "name": "Comrade D",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/60/Comrade_D_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190629223254",
     "alias": [],
@@ -6101,7 +5923,6 @@
     ]
   },
   {
-    "id": 179,
     "name": "Talking Titan",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/8e/Talking_Titan_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170603204223",
     "alias": ["The Titan encountered by <a href="],
@@ -6119,7 +5940,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/35"]
   },
   {
-    "id": 180,
     "name": "Grice",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/72/Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710181115",
     "alias": [],
@@ -6149,7 +5969,6 @@
     ]
   },
   {
-    "id": 181,
     "name": "Fay Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f9/Fay_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190610044451",
     "alias": [],
@@ -6188,7 +6007,6 @@
     ]
   },
   {
-    "id": 182,
     "name": "Yelena",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/45/Yelena_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207232354",
     "alias": [],
@@ -6226,7 +6044,6 @@
     ]
   },
   {
-    "id": 183,
     "name": "Onyankopon",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a8/Onyankopon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223743",
     "alias": [],
@@ -6263,7 +6080,6 @@
     ]
   },
   {
-    "id": 184,
     "name": "Zeke Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20221009190448",
     "alias": ["Beast Titan", "Monkey", "Wonderboy", "Beardo"],
@@ -6335,7 +6151,6 @@
     ]
   },
   {
-    "id": 185,
     "name": "Greiz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/de/Greiz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308022540",
     "alias": [],
@@ -6357,7 +6172,6 @@
     ]
   },
   {
-    "id": 186,
     "name": "Ogweno",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Ogweno_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227221843",
     "alias": [],
@@ -6380,7 +6194,6 @@
     ]
   },
   {
-    "id": 187,
     "name": "Nambia",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/61/Nambia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227221431",
     "alias": [],
@@ -6403,7 +6216,6 @@
     ]
   },
   {
-    "id": 188,
     "name": "Eren Jaeger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220123225500",
     "alias": [
@@ -6530,7 +6342,6 @@
     ]
   },
   {
-    "id": 189,
     "name": "Wim",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3f/Wim_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308023322",
     "alias": [],
@@ -6556,7 +6367,6 @@
     ]
   },
   {
-    "id": 190,
     "name": "Holger",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Holger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308022940",
     "alias": [],
@@ -6579,7 +6389,6 @@
     ]
   },
   {
-    "id": 191,
     "name": "Surma",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c4/Surma_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322003220",
     "alias": [],
@@ -6603,7 +6412,6 @@
     ]
   },
   {
-    "id": 192,
     "name": "Louise",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4a/Louise_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221215352",
     "alias": [],
@@ -6631,7 +6439,6 @@
     ]
   },
   {
-    "id": 193,
     "name": "Floch Forster",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3b/Floch_Forster_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221222051",
     "alias": [],
@@ -6680,7 +6487,6 @@
     ]
   },
   {
-    "id": 194,
     "name": "Samuel Linke-Jackson",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1c/Samuel_Linke-Jackson_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220313214606",
     "alias": [],
@@ -6710,7 +6516,6 @@
     ]
   },
   {
-    "id": 195,
     "name": "Daz",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/35/Daz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220313214351",
     "alias": [],
@@ -6743,7 +6548,6 @@
     ]
   },
   {
-    "id": 196,
     "name": "Oliver",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/57/Oliver_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220227213026",
     "alias": [],
@@ -6764,7 +6568,6 @@
     ]
   },
   {
-    "id": 197,
     "name": "Sawney",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4c/Sawney_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820185617",
     "alias": [],
@@ -6787,7 +6590,6 @@
     ]
   },
   {
-    "id": 198,
     "name": "Beane",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/69/Beane_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820185404",
     "alias": [],
@@ -6810,7 +6612,6 @@
     ]
   },
   {
-    "id": 199,
     "name": "Helos",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/84/Helos_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227205802",
     "alias": [],
@@ -6828,7 +6629,6 @@
     "episodes": ["https://api.attackontitanapi.com/episodes/63"]
   },
   {
-    "id": 200,
     "name": "Devil of All Earth",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2c/Devil_of_All_Earth_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190620181709",
     "alias": [],
@@ -6851,7 +6651,6 @@
     ]
   },
   {
-    "id": 201,
     "name": "Mirror Man",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/eb/Mirror_Man_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180812010229",
     "alias": [],

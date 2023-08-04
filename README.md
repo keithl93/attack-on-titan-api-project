@@ -18,5 +18,9 @@ router.put("/api/characters/:name", controllers.updateCharacter);
 
 router.delete("/api/characters/:name", controllers.deleteCharacter);
 
+Deployed API:
+
+https://aot-api-7ef9780170ea.herokuapp.com/
+
 Reference:
 https://github.com/ZachMcM/attack-on-titan-api/blob/master/data/characters.json

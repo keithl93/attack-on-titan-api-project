@@ -17,7 +17,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 // app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
-app.use("/", routes);
+app.use("/api", routes);
 
 // set the view engine to ejs
 // app.set('view engine', 'ejs');
